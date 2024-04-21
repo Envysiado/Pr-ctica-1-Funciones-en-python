@@ -16,7 +16,7 @@ A continuación se presentan una serie de funciones en Python junto con su descr
     mi_diccionario = {'a': 1, 'b': 2}
     mi_diccionario_modificado = agregarValor(mi_diccionario, 'c', 3)
     print(mi_diccionario_modificado)  # Salida: {'a': 1, 'b': 2, 'c': 3}
-    ```
+    ´´´
 
 2. **Función eliminar_valor(diccionario, clave):**
    - Descripción: Esta función recibe un diccionario y una clave, y elimina la clave-valor correspondiente del diccionario. Retorna el diccionario modificado.
